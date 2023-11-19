@@ -1,0 +1,5 @@
+# README
+This is a basic R Shiny app using OECD waste water data here:
+https://www.kaggle.com/datasets/kkhandekar/oecd-waste-water-treatment/
+
+Keep watching this space- eventually I plan to add a chloropleth map function
